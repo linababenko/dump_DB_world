@@ -2,11 +2,15 @@
 MS SQL Dump 
 
 234 countries
+
 3 721 regions
-532 777 cities
+
+532 777 cities 
 
 Encoding - UTF8
 
 QUOTED(')
-FIELDTERMINATOR = ',',
+
+FIELDTERMINATOR = ','
+
 ROWTERMINATOR = '\n'
